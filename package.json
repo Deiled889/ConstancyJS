@@ -1,26 +1,41 @@
 {
-"name": "constancydeiled889js",
-"version": "1.0.0",
-"description": "ConstancyJS is a JavaScript library designed to facilitate the creation of smooth and consistent animations with uniform velocity. It provides an easy-to-use interface for incorporating constant motion effects into your web applications.",
-"main": "index.js",
-"scripts": {},
-"repository": {
-"type": "git",
-"url": "https://github.com/Deiled889/ConstancyJS.git"
-},
-"keywords": [
-"sample",
-"npm",
-"package"
-],
-"author": "Deiled889",
-"license": "MIT",
-"dependencies": {
-"lodash": "^4.17.21",
-"axios": "^0.21.1"
-},
-"peerDependencies": {
-"react": ">=16.8.0",
-"react-dom": ">=16.8.0"
-}
+  "name": "constancydeiled889js",
+  "version": "2.5.0",
+  "description": "ConstancyJS is a JavaScript library designed to facilitate the creation of smooth and consistent animations with uniform velocity. It provides an easy-to-use interface for incorporating constant motion effects into your web applications.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Deiled889/ConstancyJS.git"
+  },
+  "keywords": [
+    "sample",
+    "npm",
+    "package",
+    "tea",
+    "beverage",
+    "drink",
+    "chai",
+    "green tea",
+    "oolong"
+  ],
+  "author": "Deiled889",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "axios": "^0.21.1",
+    "tea-brewer": "^1.0.0",
+    "tea-maker": "^2.0.0",
+    "tea-lover": "^3.0.0",
+    "tea-connoisseur": "^1.5.0",
+    "tea-drinker": "^2.5.0",
+    "tea-enthusiast": "^3.5.0"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0",
+    "tea-party": "^1.0.0",
+    "tea-time": "^2.0.0",
+    "tea-break": "^3.0.0"
+  }
 }
